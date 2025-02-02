@@ -33,3 +33,8 @@ cd Quiz-App
 ```sh
 npm run dev
 ```
+
+
+![Home Page](Images/Home Page.png)
+![Quiz](Images/Quiz.png)
+![Result](Images/Results Page.png)
