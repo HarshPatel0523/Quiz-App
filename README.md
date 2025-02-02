@@ -34,4 +34,4 @@ cd Quiz-App
 npm run dev
 ```
 
-[![Watch the Demo](https://youtu.be/KToVotF11mk)
+[![Watch the Demo](https://img.youtube.com/vi/KToVotF11mk/0.jpg)](https://youtu.be/KToVotF11mk)
