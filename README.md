@@ -8,7 +8,7 @@ Follow these steps to set up and run the Quiz App on your local machine.
 ## Clone the Repository  
 
 ```sh
-git clone Quiz-App
+git clone https://github.com/HarshPatel0523/Quiz-App
 cd Quiz-App
 ```
 
